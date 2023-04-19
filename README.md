@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhisheksingh9368
-- 👀 I’m interested in computer science engineering.
+- 👀 I’m interested in coding. I am pursuing B.Tech in computer science engineering from  College of Engineering Roorkee (COER).
 - 🌱 I’m currently learning nodejs,java programming,database management system.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
